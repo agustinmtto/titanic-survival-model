@@ -1,6 +1,7 @@
 # Análisis de Supervivencia del Titanic con Árboles de Decisión
 
-Este proyecto utiliza un modelo de árbol de decisión para analizar los factores que influyeron en la supervivencia de los pasajeros del Titanic.
+Este proyecto emplea un modelo de árbol de decisión para analizar los factores que influyeron en la supervivencia de los pasajeros del Titanic. Desarrollado con fines educativos, sirve como una práctica introductoria a Machine Learning. El objetivo principal es demostrar cómo los árboles de decisión pueden ser utilizados para analizar datos y realizar predicciones.
+
 
 ## Descripción
 
